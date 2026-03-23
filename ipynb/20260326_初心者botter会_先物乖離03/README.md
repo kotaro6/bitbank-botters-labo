@@ -17,7 +17,7 @@
 
 ## CSV一覧
 
-### 入力（最低限これだけで実行可）
+### 入力
 
 - `homework_input_summary.csv`  
   1銘柄1行の集計データ（`symbol`, `sharpe_net`, `corr_zscore_next`, `turnover_pct`, `total_cost` など）。
